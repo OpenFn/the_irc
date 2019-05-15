@@ -1,3 +1,4 @@
+// test integration with GitHub
 appendValues({
   spreadsheetId: '1aKvA6JfhiEGc-L_4WGC-PRK0r0JbjP1s3GSOGu2byXw',
   range: 'Suspect and confirmed cases_Butembo!B1:AT68',
